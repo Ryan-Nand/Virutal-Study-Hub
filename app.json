@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Virtual-Study-Hub",
+    "slug": "Virtual-Study-Hub",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Virtual-Study-Hub"
+}
