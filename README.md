@@ -1,10 +1,10 @@
 # Virutal-Study-Hub
 Mobile study hub for chatting with other students and sharing resources (for school project)
 
-Features full login creation, live chat, multiple chat rooms/sub rooms
-<iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=EwOITvSuLR8">
-</iframe>
+Features full login creation, live chat, multiple chat rooms/sub rooms.
+Full video demostration:
+https://www.youtube.com/watch?v=EwOITvSuLR8
+
 
 
 <p align="center">
